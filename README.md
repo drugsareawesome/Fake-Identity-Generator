@@ -98,5 +98,5 @@ This project is licensed under the MIT License. See the LICENSE file for details
 Contributions and suggestions are welcome! Feel free to fork the repository and submit a pull request.
 
 ## Author
-Created by [Your Name].
+Created by Kenny Kane
 
